@@ -1,0 +1,29 @@
+[
+  {
+    "id": "338259f7-cd92-4c75-a8ba-3514136ae7ea",
+    "username": "fmerk",
+    "password": "123",
+    "picture": "https://api.adorable.io/avatars/1",
+    "name": "Filipe Merker",
+    "address": "946 Vermont Court, Why, Minnesota, 2502",
+    "about": "Fugiat culpa nulla duis ad. Nisi amet velit tempor mollit quis amet aute. Dolore veniam sunt officia exercitation pariatur sunt mollit ad nisi reprehenderit minim. Minim amet dolor quis aliqua in aliquip. Voluptate reprehenderit nostrud eu duis et quis fugiat ad voluptate aliquip pariatur ullamco. Sit occaecat irure mollit voluptate nisi nisi nisi excepteur cillum eiusmod eiusmod. Magna exercitation sunt excepteur enim laboris et ex nisi sint voluptate enim ad amet ex.\r\n"
+  },
+  {
+    "id": "dbb20f1c-666e-4441-b9c1-35ebbc5345cf",
+    "username": "pam",
+    "password": "123",
+    "picture": "https://api.adorable.io/avatars/3",
+    "name": "Pamela Schwartz",
+    "address": "332 Willmohr Street, Kennedyville, Rhode Island, 5949",
+    "about": "Excepteur anim nostrud fugiat fugiat magna aliqua tempor qui nisi Lorem ea. Adipisicing velit et non aliquip nisi ut est eiusmod. Excepteur eu minim deserunt exercitation exercitation. Voluptate anim ex fugiat officia.\r\n"
+  },
+  {
+    "id": "d59d27ee-27fc-4d6a-b64c-2f0d08bf4159",
+    "username": "pdur",
+    "password": "123",
+    "picture": "https://api.adorable.io/avatars/2",
+    "name": "Pruitt Duran",
+    "address": "752 Plymouth Street, Thermal, Delaware, 9041",
+    "about": "Mollit dolore elit nulla ipsum. Tempor reprehenderit et velit irure amet aliqua enim occaecat. Ut eu ipsum officia veniam sint eiusmod quis esse eu aute non velit pariatur. In incididunt est eu nisi aute eiusmod ea duis duis amet ut do dolore aliquip. Deserunt proident Lorem ullamco labore deserunt labore ipsum laborum quis. Occaecat culpa sint amet cillum eiusmod ipsum excepteur ipsum do deserunt.\r\n"
+  }
+]
