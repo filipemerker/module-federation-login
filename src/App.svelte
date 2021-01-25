@@ -2,8 +2,8 @@
   import users from '../data/users.json'
 
   export let userNotFound = false
-  export let username = ''
-  export let password = ''
+  export let username = 'pam'
+  export let password = '123'
   export let user = {}
 
   const event = new CustomEvent("login", {
