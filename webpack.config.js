@@ -23,7 +23,7 @@ module.exports = {
     path: __dirname + "/dist",
     filename: "[name].js",
     chunkFilename: "[name].[id].js",
-    publicPath: "http://localhost:3002/",
+    publicPath: "https://filipemerker.github.io/module-federation-login/",
   },
   module: {
     rules: [
